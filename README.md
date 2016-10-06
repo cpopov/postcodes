@@ -9,5 +9,5 @@
 ## Test
 
 ```
-./find_postocde.js [Google api key] Postcodes.csv
+./find_postcodes.js [Google api key] Postcodes.csv
 ```
