@@ -1,0 +1,20 @@
+#IDEs
+*.classpath
+*.project
+*.settings
+*.ipr
+*.iws
+*.iml
+.idea
+target
+
+# Logs
+logs
+*.log*
+
+
+#MacOS
+.DS_Store
+
+#Node.js
+node_modules
